@@ -5,21 +5,21 @@
 ### 💻 Full-Stack Developer / Cloud Native / AI Enthusiast
 📍 Dongguan, Guangdong | Focus on Java / Spring Boot / Python / Docker / Vue / React / Node
 
----
+
 
 ## 🙋‍♂️ About Me
-- 🌱 Learning: Kubernetes, LLM application development & system architecture
+- 🌱 Learning: English, LLM application development & system architecture
 - 💬 Tech Stack: Java / Spring Boot / Python / Vue / Docker / Nginx / MySQL / Vue / React / Node
 - 📫 Contact: junbin712@sina.com
 
----
+
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,vue,react,node,python,spring,docker,nginx,mysql,git,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,vue,react,python,spring,docker,nginx,mysql,git,github&theme=light" />
 </p>
 
----
+
 
 ## 🔗 Social & Links
 <p align="center">
@@ -34,7 +34,7 @@
   </a>
 </p>
 
----
+
 
 ## ✨ Visitor Count
 <p align="center">
