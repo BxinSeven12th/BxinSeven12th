@@ -9,29 +9,14 @@
 
 ## 🙋‍♂️ About Me
 - 🌱 Learning: Kubernetes, LLM application development & system architecture
-- 💬 Tech Stack: Java / Spring Boot / Python / Vue / Docker / Nginx / MySQL
+- 💬 Tech Stack: Java / Spring Boot / Python / Vue / Docker / Nginx / MySQL / Vue / React / Node
 - 📫 Contact: junbin712@sina.com
 
 ---
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,vue,spring,docker,nginx,mysql,git,github&theme=light" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bandxin712&show_icons=true&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandxin712&layout=compact&theme=default&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bandxin712&theme=flat&row=1&column=6" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,vue,react,node,python,spring,docker,nginx,mysql,git,github&theme=light" />
 </p>
 
 ---
